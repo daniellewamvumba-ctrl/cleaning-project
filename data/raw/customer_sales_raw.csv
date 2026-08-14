@@ -1,0 +1,21 @@
+customer_id,name,email,country,age,purchase_amount,purchase_date
+1001,John Mwangi,john@gmail.com,Kenya,25,1500,2026-01-05
+1002,Mary Wanjiku,mary@gmail.com,kenya,31,2500,2026-01-06
+1003,Peter Otieno,peter@gmail.com,KENYA,28,1800,2026-01-07
+1004,Jane Kamau,,Kenya,35,3200,2026-01-08
+1005,Mike Ochieng,mike@gmail.com,Kenya,,2100,2026-01-09
+1006,Ann Njeri,ann@gmail.com, Kenya ,22,1700,2026-01-10
+1007,David Kimani,david@gmail,Kenya,29,1900,2026-01-11
+1008,Sarah Wambui,sarah@gmail.com,Kenya,27,not available,2026-01-12
+1009,John Mwangi,john@gmail.com,Kenya,25,1500,2026-01-05
+1010,Kevin Kariuki,kevin@gmail.com,Kenya,34,-500,2026-01-13
+1011,Lydia Akinyi,lydia@gmail.com,Kenya,26,2300,
+1012,James Maina,james@gmail.com,Kenya,thirty,2800,2026-01-15
+1013,Grace Wairimu,grace@gmail.com,Kenya,30,3500,2026-01-16
+1014,  brian mutua  ,brian@gmail.com,kenya,24,1600,2026-01-17
+1015,Lucy Atieno,lucy@gmail.com,Kenya,29,2000,2026-01-18
+1016,Samuel Kibet,samuel@gmail.com,Kenya,33,2700,2026-01-19
+1017,Esther Chebet,esther@gmail.com,Kenya,27,2200,2026-01-20
+1018,Daniel Kiptoo,daniel@gmail.com,Kenya,40,3000,2026-01-21
+1019,Peter Otieno,peter@gmail.com,KENYA,28,1800,2026-01-07
+1020,Naomi Wambui,naomi@gmail.com,Kenya,23,1750,2026-01-22
